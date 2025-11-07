@@ -75,11 +75,13 @@
     "tailwindcss": "^4.1.17",
     "tailwindcss-animate": "^1.0.7",
     "tough-cookie": "^6.0.0",
-    "typescript": "^5.9.3",
     "vaul": "^1.1.2",
     "viem": "^2.38.6",
     "wagmi": "^2.19.2",
     "winston": "^3.18.3",
     "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
   }
 }
