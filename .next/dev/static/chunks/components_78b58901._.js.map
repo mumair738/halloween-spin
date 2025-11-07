@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///c:/Users/MOHD%20UMAIR/Desktop/halloween%20spin/components/ResponseLogger.tsx"],"sourcesContent":["'use client';\r\n\r\nimport { useEffect } from 'react';\r\n\r\nexport function ResponseLogger() {\r\n  useEffect(() => {\r\n    console.log('Response Logger initialized');\r\n  }, []);\r\n\r\n  return null;\r\n}"],"names":[],"mappings":";;;;AAEA;;AAFA;;AAIO,SAAS;;IACd,IAAA,0KAAS;oCAAC;YACR,QAAQ,GAAG,CAAC;QACd;mCAAG,EAAE;IAEL,OAAO;AACT;GANgB;KAAA","debugId":null}},
+    {"offset": {"line": 32, "column": 0}, "map": {"version":3,"sources":["file:///c:/Users/MOHD%20UMAIR/Desktop/halloween%20spin/components/ReadyNotifier.tsx"],"sourcesContent":["'use client';\r\n\r\nimport { useEffect } from 'react';\r\n\r\nexport function ReadyNotifier() {\r\n  useEffect(() => {\r\n    console.log('Mini-app is ready');\r\n  }, []);\r\n\r\n  return null;\r\n}"],"names":[],"mappings":";;;;AAEA;;AAFA;;AAIO,SAAS;;IACd,IAAA,0KAAS;mCAAC;YACR,QAAQ,GAAG,CAAC;QACd;kCAAG,EAAE;IAEL,OAAO;AACT;GANgB;KAAA","debugId":null}},
+    {"offset": {"line": 60, "column": 0}, "map": {"version":3,"sources":["file:///c:/Users/MOHD%20UMAIR/Desktop/halloween%20spin/components/FarcasterWrapper.tsx"],"sourcesContent":["'use client';\r\n\r\nimport { ReactNode } from 'react';\r\n\r\ninterface FarcasterWrapperProps {\r\n  children: ReactNode;\r\n}\r\n\r\nexport default function FarcasterWrapper({ children }: FarcasterWrapperProps) {\r\n  return <>{children}</>;\r\n}"],"names":[],"mappings":";;;;;AAAA;;AAQe,SAAS,iBAAiB,EAAE,QAAQ,EAAyB;IAC1E,qBAAO;kBAAG;;AACZ;KAFwB","debugId":null}}]
+}
