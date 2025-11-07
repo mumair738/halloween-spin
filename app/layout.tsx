@@ -1,19 +1,10 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { GeistSans, GeistMono } from "geist/font";
 import "./globals.css";
 import { ResponseLogger } from "@/components/ResponseLogger";
 import { cookies } from "next/headers";
 import { ReadyNotifier } from "@/components/ReadyNotifier";
 import FarcasterWrapper from "@/components/FarcasterWrapper";
-
-const geistSans = Geist({
-  subsets: ["latin"],
-  variable: "--font-geist-sans",
-});
-const geistMono = Geist_Mono({
-  subsets: ["latin"],
-  variable: "--font-geist-mono",
-});
 
 export default async function RootLayout({
   children,
@@ -28,7 +19,7 @@ export default async function RootLayout({
             {requestId && <meta name="x-request-id" content={requestId} />}
           </head>
           <body
-            className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+            className={`${GeistSans.variable} ${GeistMono.variable} antialiased`}
           >
             {/* Do not remove this component, we use it to notify the parent that the mini-app is ready */}
             <ReadyNotifier />

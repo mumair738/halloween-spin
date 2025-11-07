@@ -1,192 +1,231 @@
-[00:00:00.772] Server  LOG      ✓ Ready in 518ms
-[00:02:34.904] Server  ERROR    ⨯ Error: ENOENT: no such file or directory, open 'C:\Users\MOHD UMAIR\Desktop\halloween spin\.next\dev\server\app\page\build-manifest.json'
-[00:02:34.932] Server  ERROR   Error: ENOENT: no such file or directory, open 'C:\Users\MOHD UMAIR\Desktop\halloween spin\.next\dev\server\app\page\build-manifest.json'
-[00:02:34.946] Server  ERROR   Error: ENOENT: no such file or directory, open 'C:\Users\MOHD UMAIR\Desktop\halloween spin\.next\dev\server\pages\_app\build-manifest.json'
-[00:00:23.954] Server  LOG      ○ Compiling / ...
-[00:00:26.785] Server  ERROR    ⨯ ./app
-Font file not found: Can't resolve 'https://fonts.gstatic.com/s/GeistMonoVF.woff2'
-
-
-./app
-Font file not found: Can't resolve 'https://fonts.gstatic.com/s/GeistVF.woff2'
-
-[00:00:27.548] Browser ERROR   uncaughtError: Error: ./app
-Font file not found: Can't resolve 'https://fonts.gstatic.com/s/GeistMonoVF.woff2'
-
-[00:00:27.707] Browser ERROR   ./app
-Font file not found: Can't resolve 'https://fonts.gstatic.com/s/GeistMonoVF.woff2'
-[00:00:27.707] Browser ERROR   ./app
-Font file not found: Can't resolve 'https://fonts.gstatic.com/s/GeistVF.woff2'
-[00:00:28.095] Browser ERROR   ./app
-Font file not found: Can't resolve 'https://fonts.gstatic.com/s/GeistMonoVF.woff2'
-[00:00:28.095] Browser ERROR   ./app
-Font file not found: Can't resolve 'https://fonts.gstatic.com/s/GeistVF.woff2'
-[00:03:09.968] Server  LOG      ✓ Compiled in 56ms
-[00:00:45.519] Server  ERROR    ⨯ ReferenceError: localFont is not defined
-[00:00:45.636] Server  ERROR    ⨯ ReferenceError: localFont is not defined
-[00:00:45.751] Browser ERROR   uncaughtError: ReferenceError: localFont is not defined
-[00:01:01.356] Server  LOG      ✓ Compiled in 1147ms
-[00:03:26.391] Server  LOG      ✓ Compiled in 1258ms
-[00:01:02.082] Server  WARN    Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.
-[00:01:02.334] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:02.334] Browser WARN    Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.334] Browser ASSERT  true unexpected parse state B
-[00:01:02.492] Browser LOG     Mini-app is ready
-[00:01:02.492] Browser LOG     Adding mini app...
-[00:01:02.492] Browser LOG     Response Logger initialized
-[00:01:02.596] Browser LOG     Farcaster SDK initialized successfully - app fully loaded
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser WARN    Element w3m-router-container scheduled an update (generally because a property was set) after an update completed, causing a new update to be scheduled. This is inefficient and should be avoided unless the next update can only be scheduled as a side effect of the previous update. See https://lit.dev/msg/change-in-update for more information.
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:53.899] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
-[00:01:55.598] Browser ASSERT  true unexpected parse state B
+[00:00:00.884] Server  LOG      ✓ Ready in 592ms
+[00:00:46.449] Server  LOG      ○ Compiling / ...
+[00:00:50.656] Server  WARN    Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.
+[00:00:50.681] Server  ERROR    ⨯ ReferenceError: geistSans is not defined
+[00:00:50.805] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:50.805] Browser ERROR   uncaughtError: ReferenceError: geistSans is not defined
+[00:00:51.007] Browser WARN    Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.
+[00:01:05.338] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:06.355] Server  WARN    Multiple versions of Lit loaded. Loading multiple versions is not recommended. See https://lit.dev/msg/multiple-versions for more information.
+[00:01:06.393] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:06.569] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:06.732] Browser WARN    Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser ASSERT  true unexpected parse state B
+[00:01:06.732] Browser LOG     Mini-app is ready
+[00:01:06.732] Browser LOG     Adding mini app...
+[00:01:06.732] Browser LOG     Response Logger initialized
+[00:01:06.835] Browser LOG     Farcaster SDK initialized successfully - app fully loaded
+[00:05:33.227] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser WARN    Element w3m-router-container scheduled an update (generally because a property was set) after an update completed, causing a new update to be scheduled. This is inefficient and should be avoided unless the next update can only be scheduled as a side effect of the previous update. See https://lit.dev/msg/change-in-update for more information.
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:33.228] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.496] Browser ASSERT  true unexpected parse state B
+[00:05:35.829] Browser ASSERT  true unexpected parse state B
+[00:05:35.829] Browser ASSERT  true unexpected parse state B
+[00:05:35.829] Browser ASSERT  true unexpected parse state B
+[00:05:35.829] Browser ASSERT  true unexpected parse state B
+[00:05:35.829] Browser ASSERT  true unexpected parse state B
+[00:05:35.829] Browser ASSERT  true unexpected parse state B
+[00:05:35.829] Browser ASSERT  true unexpected parse state B
+[00:05:35.829] Browser ASSERT  true unexpected parse state B
+[00:05:35.829] Browser ASSERT  true unexpected parse state B
+[00:05:35.830] Browser ASSERT  true unexpected parse state B
+[00:05:35.830] Browser ASSERT  true unexpected parse state B
+[00:05:35.830] Browser ASSERT  true unexpected parse state B
+[00:05:35.830] Browser ASSERT  true unexpected parse state B
+[00:05:35.830] Browser ASSERT  true unexpected parse state B
+[00:05:35.830] Browser ASSERT  true unexpected parse state B
+[00:05:35.830] Browser ASSERT  true unexpected parse state B
+[00:05:35.830] Browser ASSERT  true unexpected parse state B
+[00:05:35.830] Browser ASSERT  true unexpected parse state B
