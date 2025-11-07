@@ -43,3 +43,7 @@ NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID=your_id_here
 cd halloween-spin
 
 
+- ✅ Built with Reown AppKit (WalletConnect)
+- ✅ Supports wallet connect via QR / Mobile wallets
+- ✅ Powered by Wagmi + Viem for EVM interactions
+- ✅ Deployable on Vercel with zero backend
