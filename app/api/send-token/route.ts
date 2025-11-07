@@ -26,43 +26,10 @@ export async function POST(req: NextRequest): Promise<NextResponse> {
       );
     }
 
-    // Get private key from environment variable
-    const privateKey = process.env.PRIVATE_KEY;
-    if (!privateKey) {
-      return NextResponse.json(
-        { error: 'Server configuration error: Private key not set' },
-        { status: 500 }
-      );
-    }
-
-    // Create account from private key
-    const account = privateKeyToAccount(privateKey as `0x${string}`);
-
-    // Create wallet client
-    const walletClient = createWalletClient({
-      account,
-      chain: base,
-      transport: http()
-    });
-
-    // Calculate amount in smallest unit
-    const amount = parseUnits(token.amount, token.decimals);
-
-    // Send transaction
-    const hash = await walletClient.writeContract({
-      address: token.address,
-      abi: ERC20_ABI,
-      functionName: 'transfer',
-      args: [recipientAddress as Address, amount]
-    });
-
-    return NextResponse.json({
-      success: true,
-      txHash: hash,
-      token: token.symbol,
-      amount: token.amount,
-      recipient: recipientAddress
-    });
+    return NextResponse.json(
+      { error: 'Token sending functionality disabled' },
+      { status: 503 }
+    );
 
   } catch (error: unknown) {
     console.error('Token transfer error:', error);
